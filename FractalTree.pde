@@ -13,6 +13,8 @@ public void draw()
   line(325,500,325,375);   
   //drawBranches(325,375,90,2.5*Math.PI/2);
   //drawBranches(325,375,90,3.5*Math.PI/2);
+  drawBranches(325,375,50,3*Math.PI/2);
+  drawBranches(325,375,60,3*Math.PI/2);
   drawBranches(325,375,70,3*Math.PI/2);
   drawBranches(325,375,80,3*Math.PI/2);
   drawBranches(325,375,90,3*Math.PI/2);
